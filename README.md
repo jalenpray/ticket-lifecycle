@@ -18,13 +18,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Installation Stages</h2>
 - To start our project, we must create a virtual machine in Azure with Windows 11 Pro and 4 VCPUS.
-<img width="1920" height="1008" alt="create VM" src="https://github.com/user-attachments/assets/395b4b67-e45b-4392-990c-261dc14f2b30" />
+<img width="1000" height="459" alt="image" src="https://github.com/user-attachments/assets/03e8182a-b403-49e9-ba67-89596acfd31c" />
 
 - Next we will start the Remote Desktop App on windows and enter in our public IP Address
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7efdc5e6-de22-4ae0-a7e2-6b19e9853bd0" />
+<img width="967" height="526" alt="image" src="https://github.com/user-attachments/assets/61cee04d-73ab-4a31-976e-8b6877f00248" />
 
 - We will enter our credentials
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e50743cd-eb4f-4781-b4db-656ec1912f8f" />
+<img width="989" height="450" alt="image" src="https://github.com/user-attachments/assets/7ccc8253-5626-4e14-91c9-62c254d00b5b" />
 
 - Once we are in our virtual machine, open Microsoft Edge, copy and paste this link:https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD and install it
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0e2bbd5-da3c-4123-a8f9-978d16c691d7" />
