@@ -42,7 +42,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="796" height="501" alt="image" src="https://github.com/user-attachments/assets/8d502101-284f-439a-b4b2-c4335f65a370" />
 
 - From the “osTicket-Installation-Files” install the Rewrite Module
-<img width="715" height="457" alt="image" src="https://github.com/user-attachments/assets/7bb77656-bfce-451d-b3a4-9afd6f66058d" />
+<img width="745" height="457" alt="image" src="https://github.com/user-attachments/assets/8f1ca287-950d-42c6-b3f6-4eb49ac9ac9f" />
 
 - Within File Explorer, go to the C Drive and make another folder called PHP. This will act as the directory
 <img width="715" height="457" alt="image" src="https://github.com/user-attachments/assets/e104f376-746a-4217-b1b0-c0cc3b677708" />
