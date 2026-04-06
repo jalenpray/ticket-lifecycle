@@ -23,7 +23,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Next we will start the Remote Desktop App on windows and enter in our public IP Address
 <img width="967" height="526" alt="image" src="https://github.com/user-attachments/assets/61cee04d-73ab-4a31-976e-8b6877f00248" />
-
+</p>
+<br />
 - We will enter our credentials
 <img width="989" height="450" alt="image" src="https://github.com/user-attachments/assets/7ccc8253-5626-4e14-91c9-62c254d00b5b" />
 
