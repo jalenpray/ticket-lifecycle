@@ -94,11 +94,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="761" height="446" alt="image" src="https://github.com/user-attachments/assets/888df298-c3c8-44b5-8310-3ae433fb66ef" />
 <img width="761" height="446" alt="image" src="https://github.com/user-attachments/assets/e3918830-2b78-4c92-a144-fa093569620b" />
 
-- Right click on ost-config.php and click properties->Security->Advanced->Disable Inheritance->Remove all inherited permissions->Apply->Ok
-<img width="767" height="520" alt="image" src="https://github.com/user-attachments/assets/8543117a-893c-4e35-ac28-3740f7420721" />
+- Right click on ost-config.php and click properties-> Security-> Advanced-> Disable Inheritance-> Remove all inherited permissions-> Apply-> Ok
+<img width="1006" height="607" alt="image" src="https://github.com/user-attachments/assets/0496683a-482c-4906-8d41-705e7ea9b25b" />
 
-- Then to add New Permissions, click Add->Select a Principal->Type in Everyone->Check names->Ok->Full Control->Apply->Ok
-<img width="1440" height="860" alt="image" src="https://github.com/user-attachments/assets/112f1798-1788-4035-861c-d1b5e1b389ca" />
+- Then to add New Permissions, click Add-> Select a Principal-> Type in Everyone-> Check names-> Ok-> Full Control-> Apply-> Ok
+<img width="1006" height="607" alt="image" src="https://github.com/user-attachments/assets/3aad8377-56a1-4fb7-938c-a5ab869c5ec2" />
 
 - Set up osTicket profile in the browser
 <img width="1440" height="860" alt="image" src="https://github.com/user-attachments/assets/65f75640-af79-4e63-a3dc-3d7a750cd0cd" />
