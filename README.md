@@ -45,27 +45,37 @@ Using Azure, we will:
 - To start our project, we must create a virtual machine in Azure with Windows 11 Pro and 4 VCPUS.
 <img width="1000" height="459" alt="image" src="https://github.com/user-attachments/assets/03e8182a-b403-49e9-ba67-89596acfd31c" />
 
-
+<p>
+</p>
+<p>
 
 - Next,  we will start the Remote Desktop App on windows and enter in our public IP Address
 <img width="967" height="526" alt="image" src="https://github.com/user-attachments/assets/61cee04d-73ab-4a31-976e-8b6877f00248" />
 
-
+<p>
+</p>
+<p>
 
 - Then, we will have to enter our credentials
 <img width="989" height="450" alt="image" src="https://github.com/user-attachments/assets/7ccc8253-5626-4e14-91c9-62c254d00b5b" />
 
-
+<p>
+</p>
+<p>
 
 - Once in the virtual machine, open Microsoft Edge and go to: https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD and install the contents
 <img width="977" height="191" alt="image" src="https://github.com/user-attachments/assets/efca141d-fce5-4826-bc1b-7e7cb0bea0c1" />
 
-
+<p>
+</p>
+<p>
 
 - Once the file folder is downloaded, unzip it to your desktop amd extract the files from within the folder
 <img width="827" height="463" alt="image" src="https://github.com/user-attachments/assets/582e0b80-46ab-4919-b954-950ca756ae7e" />
 
-
+<p>
+</p>
+<p>
 
 - Click the windows icon and go to the control panel. Go to Programs and click turn Windows features on and off, and check the Internet Information Services(IIS) box
 <img width="614" height="465" alt="image" src="https://github.com/user-attachments/assets/01a2dea9-fa65-4116-b8bd-1f98af363058" />
