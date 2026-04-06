@@ -82,7 +82,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="1440" height="860" alt="image" src="https://github.com/user-attachments/assets/f4a6eefc-7112-4f51-a907-b5b3969cd500" />
 
 - Go back to IIS, sites -> Default -> osTicket
-<img width="1440" height="860" alt="image" src="https://github.com/user-attachments/assets/f0756f62-b1e2-4689-b033-87d52fa07df4" />
+<img width="997" height="314" alt="image" src="https://github.com/user-attachments/assets/50a59361-7698-40f1-a707-24582848fac3" />
 
 - Double-click PHP Manager Click “Enable or disable an extension”
 <img width="1440" height="860" alt="image" src="https://github.com/user-attachments/assets/77e3fadc-5240-4554-af1d-1a4bf142ccc4" />
