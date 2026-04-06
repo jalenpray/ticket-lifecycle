@@ -57,7 +57,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="713" height="462" alt="image" src="https://github.com/user-attachments/assets/85272f5d-26df-4693-a05d-78738744aeec" />
 
 - Open IIS as Admin
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6569d5cf-9adf-48e8-b97d-70ee47c27bc4" />
+<img width="610" height="438" alt="image" src="https://github.com/user-attachments/assets/acc7c878-121c-4fb5-ba36-450952bcb103" />
 
 - Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f1d061d-546a-4920-be1e-6d7ca34eb7fd" />
