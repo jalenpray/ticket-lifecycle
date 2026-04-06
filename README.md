@@ -26,8 +26,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - We will enter our credentials
 <img width="989" height="450" alt="image" src="https://github.com/user-attachments/assets/7ccc8253-5626-4e14-91c9-62c254d00b5b" />
 
-- Once we are in our virtual machine, open Microsoft Edge, copy and paste this link:https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD and install it
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0e2bbd5-da3c-4123-a8f9-978d16c691d7" />
+- Once in the virtual machine, open Microsoft Edge and go to: https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD and install the contents
+<img width="977" height="191" alt="image" src="https://github.com/user-attachments/assets/efca141d-fce5-4826-bc1b-7e7cb0bea0c1" />
 
 - Once the file folder is downlaoded, unzip it to your desktop amd extract the files from within the folder
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3ca2d1d-9fd4-4a8c-aab9-69a1dc6e0e70" />
