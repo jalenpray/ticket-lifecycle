@@ -43,9 +43,7 @@ Using Azure, we will:
 
 - To start our project, we must create a virtual machine in Azure with Windows 11 Pro and 4 VCPUS.
 <img width="1000" height="459" alt="image" src="https://github.com/user-attachments/assets/03e8182a-b403-49e9-ba67-89596acfd31c" />
-
 <p>
-
 - Next,  we will start the Remote Desktop App on windows and enter in our public IP Address
 <img width="967" height="526" alt="image" src="https://github.com/user-attachments/assets/61cee04d-73ab-4a31-976e-8b6877f00248" />
 
