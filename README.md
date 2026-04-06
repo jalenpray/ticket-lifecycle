@@ -91,8 +91,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="1440" height="860" alt="image" src="https://github.com/user-attachments/assets/2d6f4f8d-d857-4b3d-b820-b430f3784fc2" />
 
 - Go to the C Drive-> inetpub-> wwwroot-> osTicket-> include and look for the file ost-sampleconfig.php and rename it to ost-config.php
-<img width="867" height="566" alt="image" src="https://github.com/user-attachments/assets/becb5177-dd8f-4ea6-8abc-c33ecdaef4b7" /> 
-<img width="867" height="566" alt="image" src="https://github.com/user-attachments/assets/2da3552f-b28d-4e5a-8cd4-d0c500b1f657" />
+<img width="761" height="446" alt="image" src="https://github.com/user-attachments/assets/888df298-c3c8-44b5-8310-3ae433fb66ef" />
+<img width="761" height="446" alt="image" src="https://github.com/user-attachments/assets/e3918830-2b78-4c92-a144-fa093569620b" />
 
 - Right click on ost-config.php and click properties->Security->Advanced->Disable Inheritance->Remove all inherited permissions->Apply->Ok
 <img width="767" height="520" alt="image" src="https://github.com/user-attachments/assets/8543117a-893c-4e35-ac28-3740f7420721" />
