@@ -20,8 +20,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 <h2>My List of Prerequisites</h2>
-- Using Azure, we will create our virtual machine
-
+- Using Azure, we will create a virtual machine
+- Install the osTicket requirements
+- Install the osTicket itself
+- Install  MySQL
+- Install C++ Redistributal
+- Install HeidiSQL
+- Install Rewrite Module
 
 <h2>Installation Stages</h2>
 - To start our project, we must create a virtual machine in Azure with Windows 11 Pro and 4 VCPUS.
