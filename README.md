@@ -51,7 +51,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="713" height="485" alt="image" src="https://github.com/user-attachments/assets/4ed26c96-dc18-4424-b106-d9624dcc0abc" />
 
 - From the “osTicket-Installation-Files” folder, install the VC_redist.x86.exe. file
-<img width="713" height="462" alt="image" src="https://github.com/user-attachments/assets/1a0931d7-c253-47cd-be15-ffccdbefedba" />
+<img width="720" height="465" alt="image" src="https://github.com/user-attachments/assets/a1b51a7c-4ca0-43bf-8b79-87d68188f159" />
 
 - From the “osTicket-Installation-Files” folder, install MySQL 5.5.62/Click Typical Setup -> Launch Configuration->Standard Configuration->enter the username and password which are both root
 <img width="713" height="462" alt="image" src="https://github.com/user-attachments/assets/85272f5d-26df-4693-a05d-78738744aeec" />
