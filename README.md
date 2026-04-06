@@ -113,7 +113,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="973" height="512" alt="image" src="https://github.com/user-attachments/assets/67a9b6fe-22c4-4420-9fe2-682f728a4580" />
 
 - Continue Setting up osTicket in the browser-> MySQL Database: osTicket-> MySQL Username: root-> MySQL Password: root-> Click Install
-<img width="828" height="420" alt="image" src="https://github.com/user-attachments/assets/4f204d81-2a1f-49dc-92ea-fdc154efd1f6" />
+<img width="797" height="372" alt="image" src="https://github.com/user-attachments/assets/5b8aff43-b87b-4043-9f3c-5041a21ccb11" />
 
 - The osTicket is finally installed!
 <img width="837" height="642" alt="image" src="https://github.com/user-attachments/assets/c5726b6c-1211-4da2-b232-30c9e117f0a8" />
