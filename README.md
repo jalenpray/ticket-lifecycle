@@ -32,14 +32,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Once the file folder is downlaoded, unzip it to your desktop amd extract the files from within the folder
 <img width="827" height="463" alt="image" src="https://github.com/user-attachments/assets/582e0b80-46ab-4919-b954-950ca756ae7e" />
 
-- Click the windows icon, type in control panel, click turn windows features on and off, then check the (IIS) Internet Information Services box
+- Click the windows icon and go to the control panel. Go to Programs and click turn Windows features on and off, and check the Internet Information Services(IIS) box
 <img width="614" height="465" alt="image" src="https://github.com/user-attachments/assets/01a2dea9-fa65-4116-b8bd-1f98af363058" />
 
-- Scroll down and open world wide web, open Application Development Features and the the check box labeled "CGI"
+- Scroll down and open world wide web, open Application Development Features and click the check box labeled "CGI"
 <img width="617" height="462" alt="image" src="https://github.com/user-attachments/assets/f7d9fe20-1164-4346-b468-a649a05f7b5f" />
 
-- From the "osTicket-Installation-Files" folder install the PHP Manager for IIS. Say yes to everything to install it
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/31201544-6baa-4f6d-880c-808dc7f43654" />
+- From the "osTicket-Installation-Files" folder install the PHP Manager for IIS
+<img width="796" height="501" alt="image" src="https://github.com/user-attachments/assets/8d502101-284f-439a-b4b2-c4335f65a370" />
 
 - From the “osTicket-Installation-Files” folder do the same thing and install the Rewrite Module
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba5753ba-ccf1-4037-b463-1ed0146d6625" />
