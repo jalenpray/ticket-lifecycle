@@ -5,23 +5,17 @@
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
-
-
-
 <h2>Environments and Technologies Used</h2>
-
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
-
 - Windows 10</b> (21H2)
 
 <h2>My List of Prerequisites</h2>
-
 - Using Azure, we will create our virtual machine
-- 
+
 <h2>Installation Stages</h2>
 - To start our project, we must create a virtual machine in Azure with Windows 11 Pro and 4 VCPUS.
 <img width="1920" height="1008" alt="create VM" src="https://github.com/user-attachments/assets/395b4b67-e45b-4392-990c-261dc14f2b30" />
