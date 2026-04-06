@@ -41,6 +41,7 @@ Using Azure, we will:
 - Install Rewrite Module
 
 <h2>Installation Stages</h2>
+
 - To start our project, we must create a virtual machine in Azure with Windows 11 Pro and 4 VCPUS.
 <img width="1000" height="459" alt="image" src="https://github.com/user-attachments/assets/03e8182a-b403-49e9-ba67-89596acfd31c" />
 
