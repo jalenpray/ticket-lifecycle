@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Once in the virtual machine, open Microsoft Edge and go to: https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD and install the contents
 <img width="977" height="191" alt="image" src="https://github.com/user-attachments/assets/efca141d-fce5-4826-bc1b-7e7cb0bea0c1" />
 
-- Once the file folder is downlaoded, unzip it to your desktop amd extract the files from within the folder
+- Once the file folder is downloaded, unzip it to your desktop amd extract the files from within the folder
 <img width="827" height="463" alt="image" src="https://github.com/user-attachments/assets/582e0b80-46ab-4919-b954-950ca756ae7e" />
 
 - Click the windows icon and go to the control panel. Go to Programs and click turn Windows features on and off, and check the Internet Information Services(IIS) box
@@ -41,10 +41,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - From the "osTicket-Installation-Files" folder install the PHP Manager for IIS
 <img width="796" height="501" alt="image" src="https://github.com/user-attachments/assets/8d502101-284f-439a-b4b2-c4335f65a370" />
 
-- From the “osTicket-Installation-Files” folder do the same thing and install the Rewrite Module
+- From the “osTicket-Installation-Files” install the Rewrite Module
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba5753ba-ccf1-4037-b463-1ed0146d6625" />
 
-- Open another File Explorer, go to the C Drive and make another folder called PHP. This will be the directory
+- Within File Explorer, go to the C Drive and make another folder called PHP. This will act as the directory
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/126e2138-aa49-4f60-b535-9fa7aec27b8f" />
 
 - From the “osTicket-Installation-Files” folder, extract the files from the PHP 7.3.8 to the PHP folder
