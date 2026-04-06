@@ -90,7 +90,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Enable: php_imap.dll, Enable: php_intl.dll Enable: php_opcache.dll and after you are finished refresh your broswer
 <img width="1440" height="860" alt="image" src="https://github.com/user-attachments/assets/2d6f4f8d-d857-4b3d-b820-b430f3784fc2" />
 
-- Go to the C Drive->inetpub->wwwroot->osTicket->include and look for the file ost-sampleconfig.php and rename it to ost-config.php
+- Go to the C Drive-> inetpub-> wwwroot-> osTicket-> include and look for the file ost-sampleconfig.php and rename it to ost-config.php
 <img width="867" height="566" alt="image" src="https://github.com/user-attachments/assets/becb5177-dd8f-4ea6-8abc-c33ecdaef4b7" /> 
 <img width="867" height="566" alt="image" src="https://github.com/user-attachments/assets/2da3552f-b28d-4e5a-8cd4-d0c500b1f657" />
 
