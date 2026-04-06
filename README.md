@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="977" height="191" alt="image" src="https://github.com/user-attachments/assets/efca141d-fce5-4826-bc1b-7e7cb0bea0c1" />
 
 - Once the file folder is downlaoded, unzip it to your desktop amd extract the files from within the folder
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3ca2d1d-9fd4-4a8c-aab9-69a1dc6e0e70" />
+<img width="827" height="463" alt="image" src="https://github.com/user-attachments/assets/582e0b80-46ab-4919-b954-950ca756ae7e" />
 
 - Click the windows icon, type in control panel, click turn windows features on and off, then check the (IIS) Internet Information Services box
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/882191d8-2da8-4458-8661-c6a788ad8a53" />
