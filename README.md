@@ -5,8 +5,7 @@
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
-</p>
-<br />
+<p>
 
 
 <h2>Environments and Technologies Used</h2>
@@ -46,28 +45,20 @@ Using Azure, we will:
 <img width="1000" height="459" alt="image" src="https://github.com/user-attachments/assets/03e8182a-b403-49e9-ba67-89596acfd31c" />
 
 <p>
-</p>
-<p>
 
 - Next,  we will start the Remote Desktop App on windows and enter in our public IP Address
 <img width="967" height="526" alt="image" src="https://github.com/user-attachments/assets/61cee04d-73ab-4a31-976e-8b6877f00248" />
 
-<p>
-</p>
 <p>
 
 - Then, we will have to enter our credentials
 <img width="989" height="450" alt="image" src="https://github.com/user-attachments/assets/7ccc8253-5626-4e14-91c9-62c254d00b5b" />
 
 <p>
-</p>
-<p>
 
 - Once in the virtual machine, open Microsoft Edge and go to: https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD and install the contents
 <img width="977" height="191" alt="image" src="https://github.com/user-attachments/assets/efca141d-fce5-4826-bc1b-7e7cb0bea0c1" />
 
-<p>
-</p>
 <p>
 
 - Once the file folder is downloaded, unzip it to your desktop amd extract the files from within the folder
