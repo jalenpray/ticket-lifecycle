@@ -48,7 +48,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="715" height="457" alt="image" src="https://github.com/user-attachments/assets/e104f376-746a-4217-b1b0-c0cc3b677708" />
 
 - From the “osTicket-Installation-Files” folder, extract the files from the PHP 7.3.8 to the PHP folder
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bfc51886-a35d-4887-9eb1-d1f964eccec4" />
+<img width="713" height="485" alt="image" src="https://github.com/user-attachments/assets/4ed26c96-dc18-4424-b106-d9624dcc0abc" />
 
 - From the “osTicket-Installation-Files” folder, install the VC_redist.x86.exe. file
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d95b125a-aa1c-423a-a52e-f746290f642a" />
