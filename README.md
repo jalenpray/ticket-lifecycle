@@ -95,7 +95,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="761" height="446" alt="image" src="https://github.com/user-attachments/assets/e3918830-2b78-4c92-a144-fa093569620b" />
 
 - Right click on ost-config.php and click properties-> Security-> Advanced-> Disable Inheritance-> Remove all inherited permissions-> Apply-> Ok
-<img width="1006" height="607" alt="image" src="https://github.com/user-attachments/assets/0496683a-482c-4906-8d41-705e7ea9b25b" />
+<img width="765" height="517" alt="image" src="https://github.com/user-attachments/assets/c85a4f5c-c7a6-4fb4-8a07-8c6f0d497ac1" />
 
 - Then to add New Permissions, click Add-> Select a Principal-> Type in Everyone-> Check names-> Ok-> Full Control-> Apply-> Ok
 <img width="1006" height="607" alt="image" src="https://github.com/user-attachments/assets/3aad8377-56a1-4fb7-938c-a5ab869c5ec2" />
