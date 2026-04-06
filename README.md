@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="827" height="463" alt="image" src="https://github.com/user-attachments/assets/582e0b80-46ab-4919-b954-950ca756ae7e" />
 
 - Click the windows icon, type in control panel, click turn windows features on and off, then check the (IIS) Internet Information Services box
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/882191d8-2da8-4458-8661-c6a788ad8a53" />
+<img width="614" height="465" alt="image" src="https://github.com/user-attachments/assets/01a2dea9-fa65-4116-b8bd-1f98af363058" />
 
 - Scroll down and open world wide web, open Application Development Features and the the check box labeled "CGI"
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/807f1cd8-e7ed-409e-9416-1cd56add10a8" />
