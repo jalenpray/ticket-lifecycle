@@ -101,10 +101,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="1006" height="607" alt="image" src="https://github.com/user-attachments/assets/3aad8377-56a1-4fb7-938c-a5ab869c5ec2" />
 
 - Set up osTicket profile in the browser
-<img width="591" height="457" alt="image" src="https://github.com/user-attachments/assets/413ff7b5-40ae-4517-8a5d-0ef144b5ca00" />
+<img width="582" height="453" alt="image" src="https://github.com/user-attachments/assets/cb7a8894-1251-4a1e-88d5-86b4c79ff15b" />
 
 - From the “osTicket-Installation-Files” folder, install the HeidiSQL program
-<img width="867" height="566" alt="image" src="https://github.com/user-attachments/assets/4f4c29f1-583e-4827-acbd-bcf7a5245aa7" />
+<img width="582" height="453" alt="image" src="https://github.com/user-attachments/assets/a013e0ae-d0b3-40f3-a4a0-fbfff3e90c30" />
 
 - Open Heidi SQL. Create a new session->enter both the username and password, bothing being root->Click open
 <img width="936" height="593" alt="image" src="https://github.com/user-attachments/assets/531e1cbe-d114-4dd7-81b7-995c24bbc232" />
