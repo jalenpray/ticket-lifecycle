@@ -73,7 +73,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="478" height="377" alt="image" src="https://github.com/user-attachments/assets/faa6062e-e42f-4b6e-aa6b-ef54acbf5625" />
 
 - Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/191edbf3-da1a-4c26-a6ea-a7e8ccf947a9" />
+<img width="544" height="346" alt="image" src="https://github.com/user-attachments/assets/6dab370c-82a3-452b-94e6-90ded1aab25a" />
 
 - Reload IIS again and Stop and Start the server (Open IIS, Stop and Start the server)
 <img width="1440" height="860" alt="image" src="https://github.com/user-attachments/assets/99a8e33a-97e6-4f50-bdd5-1da54d63b817" />
