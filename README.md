@@ -69,7 +69,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="628" height="373" alt="image" src="https://github.com/user-attachments/assets/0926c407-a62d-473a-8005-7d213ee10d3c" />
 
 - Copy the “upload” folder into “c:\inetpub\wwwroot”
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/9a29f8e1-dc62-4ec4-9b3e-846c9d493fb1" />
+<img width="996" height="557" alt="image" src="https://github.com/user-attachments/assets/c0871f34-014e-4188-b7ea-b545988eb4bb" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/c9e511bc-4796-4df0-a184-014fa5de7efd" />
 
 - Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
