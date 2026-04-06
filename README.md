@@ -36,7 +36,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="614" height="465" alt="image" src="https://github.com/user-attachments/assets/01a2dea9-fa65-4116-b8bd-1f98af363058" />
 
 - Scroll down and open world wide web, open Application Development Features and the the check box labeled "CGI"
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/807f1cd8-e7ed-409e-9416-1cd56add10a8" />
+<img width="617" height="462" alt="image" src="https://github.com/user-attachments/assets/f7d9fe20-1164-4346-b468-a649a05f7b5f" />
 
 - From the "osTicket-Installation-Files" folder install the PHP Manager for IIS. Say yes to everything to install it
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/31201544-6baa-4f6d-880c-808dc7f43654" />
