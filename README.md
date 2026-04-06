@@ -21,6 +21,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>My List of Prerequisites</h2>
 Using Azure, we will: 
+
 - Create a virtual machine
 
 - Install the osTicket requirements
